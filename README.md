@@ -7,7 +7,7 @@
     <a href="https://pepy.tech/project/fmtool"><img src="https://pepy.tech/badge/fmtool?style=flat-plastic" alt="Downloads"></a>
 </p>
 
-## 🛠️ Version: 1.0.1
+## 🛠️ Version: 1.0.0
 
 **FmTool** is a modern Python package for managing files and directories, designed to work consistently across all operating systems (Windows, Linux, macOS).
 
